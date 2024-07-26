@@ -1,5 +1,5 @@
 [package]
-name = "Euler_Criterion"
+name = "Euler_Criterion_for_Quadratic_Residues"
 version = "0.1.0"
 edition = "2021"
 
